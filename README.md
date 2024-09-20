@@ -6,10 +6,19 @@ The app simulates a conversation between the user and a virtual health coach to 
 
 ## Features
 
-- **Chat-based Interface:** Users can ask for workout routines, meal suggestions, or general health advice.
-- **Dynamic Responses:** The virtual coach can give personalized advice based on user input.
-- **Meal & Workout Tracking:** Log meals and workouts for analysis and recommendations.
-- **Powered by OpenAI:** Uses OpenAI's GPT-4 for generating responses related to meals, workouts, and health advice.
+- **AI Health Coach**: A chatbot-style interface that provides advice related to health, workouts, and meal plans.
+- **Meal Logging**: Log your meals and get nutritional analysis.
+- **Workout Recommendations**: Receive tailored workout routines based on your goals.
+- **Progress Tracking**: Track your fitness and dietary progress.
+- **Dynamic Conversations**: The health coach offers personalized guidance based on the user's input, helping them achieve their fitness goals.
+- **Smooth User Interface**: Designed with a chat-based layout for seamless user interaction.
+
+## Technologies Used
+
+- **React Native**: Cross-platform mobile app development.
+- **TypeScript**: Strongly typed JavaScript to ensure type safety.
+- **OpenAI API**: For generating dynamic and intelligent responses based on user input.
+- **USDA Food Database API**: For retrieving detailed nutritional data for meals.
 
 ## Installation
 
